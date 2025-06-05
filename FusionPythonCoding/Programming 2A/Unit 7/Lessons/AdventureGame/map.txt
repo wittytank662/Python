@@ -1,0 +1,8 @@
+StartingRoom	EmptyCavePath	SkeletonRoom	FindDaggerRoom	EmptyCavePath
+*	*	EmptyCavePath	*	*
+SnakePitRoom	EmptyCavePath	SkeletonRoom	EmptyCavePath	FindDiamondRoom
+*	*	EmptyCavePath	*	*
+Find5GoldRoom	SkeletonRoom	FindRustySwordRoom	OgreRoom	FindDiamondRoom
+GiantSpiderRoom	*	*	*	EmptyCavePath
+EmptyCavePath	*	SnakePitRoom	*	Find5GoldRoom
+LeaveCaveRoom	*	SkeletonRoom	EmptyCavePath	EmptyCavePath
