@@ -1,1 +1,1 @@
-All my python code goes here
+Simple python codes that wont need full repos will go here
